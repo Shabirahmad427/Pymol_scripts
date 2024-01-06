@@ -1,0 +1,19 @@
+set stick_radius=0.2	
+set cartoon_tube_radius, 0.2	
+set cartoon_fancy_helices=1	
+set cartoon_cylindrical_helices=0	
+set cartoon_flat_sheets=1.0	
+set cartoon_smooth_loops=0	
+set cartoon_highlight_color=grey50
+set antialias=1
+set ambient=0.3
+set direct=1.0
+set ray_trace_mode=1
+set stick_radius= 0.2
+set cartoon_tube_radius, 0.2
+set cartoon_fancy_helices=1
+set cartoon_cylindrical_helices=0
+set cartoon_flat_sheets=1.0
+set cartoon_smooth_loops=0
+set cartoon_highlight_color=grey50
+bg_color white
