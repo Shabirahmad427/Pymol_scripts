@@ -1,0 +1,5 @@
+
+print cmd.get_names()
+create ref_frame1, step3_input, 1
+align step3_input, ref_frame1
+delete ref_frame1
